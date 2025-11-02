@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+google-genai
+setuptools
+pandas-datareader
+openpyxl
+tabulate
